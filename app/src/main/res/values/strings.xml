@@ -2,4 +2,6 @@
     <string name="app_name">Ex5</string>
     <string name="intro">this exercise will demonstrate the creqtion of Views and layout dynomically from the code instead from xml file</string>
     <string name="topText">this layout is prepared beforehand but loaded in rum-time</string>
+    <string name="radioBt1">Radio1</string>
+    <string name="radioBt2">Radio2</string>
 </resources>

@@ -7,7 +7,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="20sp"
         android:text="@string/topText"
         android:id="@+id/textView" />
 
@@ -18,13 +18,13 @@
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="New RadioButton"
-            android:id="@+id/radioButton" />
+            android:text="@string/radioBt1"
+            android:id="@+id/radioButton1" />
 
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="New RadioButton"
+            android:text="@string/radioBt2"
             android:id="@+id/radioButton2" />
     </RadioGroup>
 </LinearLayout>
